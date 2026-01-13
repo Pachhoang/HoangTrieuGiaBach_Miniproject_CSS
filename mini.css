@@ -1,0 +1,44 @@
+body{
+    font-family: cursive;
+    background-color: #fff7ed;
+}
+.first{
+    text-align: center;
+    color: #92400e;
+}
+header h1{
+    background-color: #fde68a;
+}
+.link{
+    background-color: #fed7aa;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 600;
+    color: #92400e
+}
+a:link{
+    color: #92400e;
+}
+a:hover{
+    color: white;
+}
+footer{
+    background-color: #92400e;
+    text-align: center;
+    color: white;
+}
+span{
+    background-color: white;
+    color: #92400e;
+}
+div{
+    background-color: white;
+    color: #92400e;
+}
+dl{
+    background-color: white;
+    color: #92400e;
+}
+.mid{
+    text-decoration: none;
+}
