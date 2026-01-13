@@ -9,18 +9,12 @@ body{
 header h1{
     background-color: #fde68a;
 }
-.link{
+.menu a{
     background-color: #fed7aa;
     text-decoration: none;
     font-size: 18px;
     font-weight: 600;
     color: #92400e
-}
-a:link{
-    color: #92400e;
-}
-a:hover{
-    color: white;
 }
 footer{
     background-color: #92400e;
@@ -29,16 +23,31 @@ footer{
 }
 span{
     background-color: white;
-    color: #92400e;
+    color: black;
 }
 div{
     background-color: white;
-    color: #92400e;
+    color: black;
 }
 dl{
     background-color: white;
-    color: #92400e;
+    color: black;
 }
 .mid{
     text-decoration: none;
+
+}
+.menu{
+    background-color: #fed7aa;
+}
+.menu a:hover{
+    background-color: #92400e;
+    color: white;
+}
+.list :hover{
+    background-color:#92400e ;
+    color: yellow;
+}
+.list{
+    color: black;
 }
